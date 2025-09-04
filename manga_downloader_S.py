@@ -517,7 +517,7 @@ class MangaDownloader(QWidget):
             "<b>Tips:</b><br>"
             "- Status messages are color-coded for clarity.<br>"
             "<b>Version:</b> 1.0<br>"
-            "<b>Author:</b> Sheriff AbdulMalik<br>"
+            "<b>Github:</b> https://github.com/Malz-arc/Manga_downloader_S<br>"
         )
         QMessageBox.about(self, "About Manga Image Downloader", about_text)
 
