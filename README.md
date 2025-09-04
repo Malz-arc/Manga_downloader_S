@@ -18,7 +18,7 @@ A user-friendly, cross-platform manga downloader with a graphical interface, sup
 - Control number of concurrent downloads
 - Manual and auto PDF merge options
 - Compile all chapters into a single volume PDF
-- Supports PyQt6, PyQt5, or PySide6 (install only one)
+- Supports PySide6
 
 ## Requirements
 
@@ -33,7 +33,7 @@ A user-friendly, cross-platform manga downloader with a graphical interface, sup
 2. Install dependencies:
    ```sh
    pip install -r requirements.txt
-   # And install ONE Qt binding, e.g.:
+   # And install ONE binding, e.g.:
    pip install PySide6
    ```
 3. Ensure Google Chrome is installed and up to date.
@@ -64,7 +64,7 @@ A user-friendly, cross-platform manga downloader with a graphical interface, sup
 - If Chrome does not open or downloads fail, ensure Chrome is installed and up to date.
 - The app uses webdriver-manager to automatically manage ChromeDriver.
 - For sites with dynamic/lazy-loaded images, the app scrolls the page to trigger loading.
-- If you encounter issues with the GUI, try installing a different Qt binding (PyQt6, PyQt5, or PySide6).
+- If you encounter issues with the GUI, try installing a 99(PySide6).
 
 ## Version
 
