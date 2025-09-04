@@ -64,7 +64,7 @@ A user-friendly, cross-platform manga downloader with a graphical interface, sup
 - If Chrome does not open or downloads fail, ensure Chrome is installed and up to date.
 - The app uses webdriver-manager to automatically manage ChromeDriver.
 - For sites with dynamic/lazy-loaded images, the app scrolls the page to trigger loading.
-- If you encounter issues with the GUI, try installing a 99(PySide6).
+- If you encounter issues with the GUI, try installing (PySide6).
 
 ## Version
 
