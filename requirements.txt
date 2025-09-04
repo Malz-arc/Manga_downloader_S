@@ -1,0 +1,12 @@
+# One of the following Qt bindings is required (install only one):
+PySide6; python_version >= '3.8'
+
+requests
+beautifulsoup4
+Pillow
+selenium
+# At least one of the following is required for PDF merging/editing:
+pypdf
+PyPDF2
+# Optional, for PDF preview feature:
+pdf2image
