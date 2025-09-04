@@ -42,7 +42,7 @@ A user-friendly, cross-platform manga downloader with a graphical interface, sup
 
 1. Run the app:
    ```sh
-   python manga_downloader_qt.py
+   manga_downloader_S.py
    ```
 2. Paste manga chapter URLs (one per line), or drag-and-drop URLs/text files.
 3. Choose a save location (optional).
